@@ -1,0 +1,14 @@
+//Ruchi Sheth
+//rjsheth
+//pa3
+//README
+//a file containing list of stuff to be turned in 
+
+README
+Dictionary.java
+DictionaryTest.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryInterface.java
+DictionaryClient.java
+Makefile
